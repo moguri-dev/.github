@@ -6,6 +6,7 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 
 | Repository | Focus |
 | --- | --- |
+| [moguri-website](https://github.com/moguri-dev/moguri-website) | The Moguri website with docs. |
 | [moguri-desktop](https://github.com/moguri-dev/moguri-desktop) | The Moguri desktop application. |
 | [moguri-tui](https://github.com/moguri-dev/moguri-tui) | The terminal interface for the Moguri AI harness. |
 | [moguri-sdk](https://github.com/moguri-dev/moguri-sdk) | Shared APIs and integrations for building on Moguri. |

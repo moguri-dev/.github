@@ -1,6 +1,6 @@
 # Moguri
 
-Moguri is part of [Synctune](https://github.com/synctune-io), focused on developer tools for AI-assisted engineering. We put models, tools, and execution environments under the developer's control.
+Moguri is built in the open by [Synctune](https://github.com/synctune-io), focused on developer tools for AI-assisted engineering. We put models, tools, and execution environments under the developer's control.
 
 ## Projects
 

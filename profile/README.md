@@ -9,6 +9,8 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 | [moguri-website](https://github.com/moguri-dev/moguri-website) | The Moguri website with docs. |
 | [moguri-desktop](https://github.com/moguri-dev/moguri-desktop) | The Moguri desktop application. |
 | [moguri-tui](https://github.com/moguri-dev/moguri-tui) | The terminal interface for the Moguri AI harness. |
+| [moguri-android](https://github.com/moguri-dev/moguri-android) | Code and APK for the Moguri mobile app |
+| [moguri-ios](https://github.com/moguri-dev/moguri-ios) | Blocked by lack of hardware to test it and no Apple dev subscription. |
 | [moguri-sdk](https://github.com/moguri-dev/moguri-sdk) | Shared APIs and integrations for building on Moguri. |
 | [moguri-ssh](https://github.com/moguri-dev/moguri-ssh) | SSH integration for remote development. |
 | [moguri-sandbox](https://github.com/moguri-dev/moguri-sandbox) | Isolated environments for agentic development, renamed from `sendbox`. |

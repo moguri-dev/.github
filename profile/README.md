@@ -16,5 +16,3 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 | [moguri-sandbox](https://github.com/moguri-dev/moguri-sandbox) | Isolated environments for agentic development, renamed from `sendbox`. |
 | [moguri-ide-extension](https://github.com/moguri-dev/moguri-ide-extension) | An extension for VSCode compatible IDEs. |
 | [moguri-ide](https://github.com/moguri-dev/moguri-ide) | An experimental AI-assisted IDE, with built in local model loading. |
-
-Repository links use their planned organization locations, including the planned component split and renames. Some may be private or pending transfer.

@@ -16,3 +16,6 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 | [moguri-sandbox](https://github.com/moguri-dev/moguri-sandbox) | Isolated environments for agentic development, renamed from `sendbox`. |
 | [moguri-vsx-extension](https://github.com/moguri-dev/moguri-vsx-extension) | An extension for VSCode compatible IDEs (VSX). |
 | [moguri-ide](https://github.com/moguri-dev/moguri-ide) | An experimental AI-assisted IDE, with built in local model loading. |
+| [moguri-assistant](https://github.com/moguri-dev/moguri-assistant) | An experimental AI-assistant, powered by the Moguri SDK, capable of managing calendars, sending and receiving messages from different channels and coding |
+
+

@@ -10,16 +10,20 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 | [moguri-docs](https://github.com/moguri-dev/moguri-docs) | The Moguri documentation. |
 | [moguri-desktop](https://github.com/moguri-dev/moguri-desktop) | The Moguri desktop application. |
 | [moguri-tui](https://github.com/moguri-dev/moguri-tui) | The terminal interface for the Moguri AI harness. |
-| [moguri-android](https://github.com/moguri-dev/moguri-android) | Code and APK for the Moguri mobile app |
-| [moguri-ios](https://github.com/moguri-dev/moguri-ios) | Coming soon. Currently blocked by lack of hardware to test it and no Apple dev subscription. |
+| [moguri-mobile-client](https://github.com/moguri-dev/moguri-mobile-client) | Moguri mobile web client via Tailscale Serve. | 
 | [moguri-sdk](https://github.com/moguri-dev/moguri-sdk) | Shared APIs and integrations for building on Moguri. |
 | [moguri-server](https://github.com/moguri-dev/moguri-server) | Moguri but in the cloud powered by moguri-ssh, requires moguri and moguri-server installed on a VM (in the cloud) |
 | [moguri-ssh](https://github.com/moguri-dev/moguri-ssh) | SSH integration for remote development. |
 | [moguri-slack](https://github.com/moguri-dev/moguri-slack) | Moguri taggable on Slack (requires moguri server). |
 | [moguri-sandbox](https://github.com/moguri-dev/moguri-sandbox) | Isolated environments for agentic development, renamed from `sendbox`. |
-| [moguri-vsx-extension](https://github.com/moguri-dev/moguri-vsx-extension) | An extension for VSCode compatible IDEs (VSX). |
 | [moguri-ide](https://github.com/moguri-dev/moguri-ide) | An experimental AI-assisted IDE, with built in local model loading. |
 | [moguri-decision](https://github.com/moguri-dev/moguri-decision) | An experimental synthetic decision model provider-agnostic, with support for Jev, Laya, OpenAI Decision APIs and the like |
 | [moguri-assistant](https://github.com/moguri-dev/moguri-assistant) | An experimental AI-assistant, powered by the Moguri SDK, capable of managing calendars, sending and receiving messages from different channels and coding |
+
+## Projects in PoC mode
+
+| [moguri-vsx-extension](https://github.com/moguri-dev/moguri-vsx-extension) | An extension for VSCode compatible IDEs (VSX). |
+| [moguri-android](https://github.com/moguri-dev/moguri-android) | Code and APK for the Moguri mobile app |
+| [moguri-ios](https://github.com/moguri-dev/moguri-ios) | Coming soon. Currently blocked by lack of hardware to test it and no Apple dev subscription. |
 
 

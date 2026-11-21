@@ -22,6 +22,7 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 
 ## Projects in PoC mode
 
+| Repository | Focus |
 | [moguri-vsx-extension](https://github.com/moguri-dev/moguri-vsx-extension) | An extension for VSCode compatible IDEs (VSX). |
 | [moguri-android](https://github.com/moguri-dev/moguri-android) | Code and APK for the Moguri mobile app |
 | [moguri-ios](https://github.com/moguri-dev/moguri-ios) | Coming soon. Currently blocked by lack of hardware to test it and no Apple dev subscription. |

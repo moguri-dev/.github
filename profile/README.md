@@ -20,6 +20,9 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 | [moguri-assistant](https://github.com/moguri-dev/moguri-assistant) | An experimental AI-assistant, powered by the Moguri SDK, capable of managing calendars, sending and receiving messages from different channels and coding |
 
 ## Partner projects
+
+| Repository | Focus |
+| --- | --- |
 | [sendbox](https://github.com/mbianchidev/endbox-dev/sendbox) | Isolated environments for agentic development to run on local Moguri clients. |
 | [sendbox-fleet](https://github.com/mbianchidev/sendbox-dev/sendbox-fleet) | Isolated fleets of environments for agentic development to run Moguri Server in the cloud. |
  

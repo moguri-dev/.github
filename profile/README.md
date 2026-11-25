@@ -8,7 +8,7 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 | --- | --- |
 | [moguri.synctune.it](https://github.com/moguri-dev/moguri.synctune.it) | The Moguri marketing website. |
 | [moguri-docs](https://github.com/moguri-dev/moguri-docs) | The Moguri documentation. |
-| [moguri](https://github.com/moguri-dev/moguri-desktop) | The Moguri desktop application, for MacOS only (for now). |
+| [moguri](https://github.com/moguri-dev/moguri) | The Moguri desktop application, for MacOS only (for now). |
 | [moguri-tui](https://github.com/moguri-dev/moguri-tui) | The terminal interface for the Moguri AI harness. |
 | [moguri-mobile-client](https://github.com/moguri-dev/moguri-mobile-client) | Moguri mobile web client via Tailscale Serve. | 
 | [moguri-sdk](https://github.com/moguri-dev/moguri-sdk) | Shared APIs and integrations for building on Moguri. |

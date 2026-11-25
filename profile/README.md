@@ -23,8 +23,8 @@ Moguri is built in the open by [Synctune](https://github.com/synctune-io), focus
 
 | Repository | Focus |
 | --- | --- |
-| [sendbox](https://github.com/mbianchidev/endbox-dev/sendbox) | Isolated environments for agentic development to run on local Moguri clients. |
-| [sendbox-fleet](https://github.com/mbianchidev/sendbox-dev/sendbox-fleet) | Isolated fleets of environments for agentic development to run Moguri Server in the cloud. |
+| [sendbox](https://github.com/sendbox-dev/sendbox) | Isolated environments for agentic development to run on local Moguri clients. |
+| [sendbox-fleet](https://github.com/sendbox-dev/sendbox-fleet) | Isolated fleets of environments for agentic development to run Moguri Server in the cloud. |
  
 ## Projects in PoC mode
 
